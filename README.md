@@ -1,4 +1,4 @@
-# LGMVIP-WEB-Task-1
+# LGMVIP-WEB-Task-1 To Do List
 to do list
 
 🚀 Excited to share my latest project - A Simple To-Do List Web App! 🚀
